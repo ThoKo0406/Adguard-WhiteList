@@ -10,6 +10,7 @@
 </p>
 
 
+
 ## Wartung 🛠️
 
 Die Listen in diesem Repository werden nicht regelmäßig gewartet, sondern eher sporadisch aktualisiert, je nach Bedarf und Feedback der Community. Wenn du Probleme bemerkst oder Vorschläge für Verbesserungen hast, so zögere nicht daran ein Issue zu erstellen oder einen Pull Request einzureichen. Deine Mitarbeit ist willkommen! 🚀

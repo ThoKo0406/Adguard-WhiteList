@@ -5,7 +5,7 @@
 👋 Willkommen bei meinen Adguard-White Lists! Dieses Repository enthält eine Sammlung von Whitelists, die speziell für die Verwendung mit Adguard oder Pi-Hole entwickelt wurden. Diese Whitelists ermöglichen es, bestimmte Programme und Webseiten von den Filtern auszuschließen, um ein reibungsloses und personalisiertes Erlebnis zu gewährleisten.
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/adguard/adguard-ar21.svg" alt="Adguard Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AdGuard.svg/1200px-AdGuard.svg.png" alt="Adguard Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" alt="Pi-hole Logo" width="100">
 </p>
 

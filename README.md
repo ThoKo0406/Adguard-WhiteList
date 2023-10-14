@@ -1,7 +1,7 @@
 # Adguard-White Lists
 
-![GitHub](https://img.shields.io/github/license/dein-benutzername/Adguard-White-Lists)
-![GitHub last commit](https://img.shields.io/github/last-commit/dein-benutzername/Adguard-White-Lists)
+![GitHub](https://img.shields.io/github/license/ThoKo0406/Adguard-White-Lists)
+![GitHub last commit](https://img.shields.io/github/last-commit/ThoKo0406/Adguard-White-Lists)
 
 Willkommen bei den Adguard-White Lists! Dieses Repository enthält eine Sammlung von Whitelists, die speziell für die Verwendung mit Adguard oder Pi-Hole entwickelt wurden. Diese Whitelists ermöglichen es, bestimmte Programme und Webseiten von den Filtern auszuschließen, um ein reibungsloses und personalisiertes Internet-Erlebnis zu gewährleisten.
 

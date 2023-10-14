@@ -1,0 +1,8 @@
+# Für Geräte vom Chinesischen Hersteller "Tenda"
+# Ich würde diese White Liste generell vermeiden, allerdings eskalieren die Geräte von Tenda (200.000 Anfragen pro Tag!), wenn die unten gelisteten Domains blockiert sind -> Hohe Auslastung 
+# Meine Vermutung ist, dass sich die Geräte hier die Updates beziehen
+
+
+taobao.com
+qq.com
+baidu.com

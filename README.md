@@ -1,4 +1,4 @@
-# Adguard-WhiteList
+# Adguard-White Lists
 
 Eine kleine Sammlung an White Lists für Adguard bzw. Pi-Hole.
 Einzelne Listen für Programme bzw. Webseiten
